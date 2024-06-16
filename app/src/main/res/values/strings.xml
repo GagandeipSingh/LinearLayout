@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Linear Layout</string>
+    <string name="enter_college">Enter College..</string>
+    <string name="submit">Submit</string>
+    <string name="college">Enter College:</string>
+    <string name="enter_city">Enter City..</string>
+    <string name="city">Enter City:</string>
+    <string name="enter_name">Enter Name..</string>
+    <string name="name">Enter Name:</string>
+    <string name="enter_details">Enter Details..</string>
+</resources>
